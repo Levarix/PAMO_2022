@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zdrowie</string>
+    <string name="title_home">Home</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_kcal">Kcal</string>
+    <string name="title_przepisy">Przepisy</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="enter_height">Enter height (cm)</string>
+    <string name="enter_age">Enter age (years)</string>
+    <string name="bmi">Your BMI:</string>
+    <string name="bmi_value">0</string>
+    <string name="sex_radio_female_label">Female</string>
+    <string name="sex_radio_male_label">Male</string>
+    <string name="title_sex">Choose Sex</string>
+    <string name="bmr">Your BMR (calories):</string>
+    <string name="bmr_value">0</string>
+    <string name="skladniki_value">Składniki:</string>
+    <string name="przygotowanie_value">Przygotowanie:</string>
+    <string name="przepis_title1">SURÓWKA Z MARCHEWKI I SELERA KONSERWOWEGO</string>
+    <string name="przepis_title2">JAGLANKA Z OWOCAMI EGZOTYCZNYMI</string>
+    <string name="save_button">Zapisz wynik</string>
+</resources>
